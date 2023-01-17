@@ -1,0 +1,7 @@
+name = "naiji-bot"
+main = "src/index.ts"
+compatibility_date = "2023-01-05"
+
+kv_namespaces = [
+    { binding = "naiji_bot", id = "ee9d618b27364e85b2743bb29c8ad0cc", preview_id = "4dd42932c455447ea583373c5318729b" },
+]
